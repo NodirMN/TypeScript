@@ -1,0 +1,2 @@
+npx tsc --init
+px tsc index.ts
